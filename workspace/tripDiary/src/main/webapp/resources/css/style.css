@@ -1,0 +1,37 @@
+body{
+	background: #ebeef1;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+  height: 80px;
+  color: white;
+  background-color:white;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+.header2{
+	text-align:center;
+	margin : auto;
+	width: 1044px;
+}
+.logo{
+	margin-right: 2%;
+	height: 70px;
+}
+.bg-light {
+    background-color: white!important;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1.5rem;
+    padding-left: 1.5rem;
+}
