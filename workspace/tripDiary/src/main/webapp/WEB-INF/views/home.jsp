@@ -53,7 +53,10 @@
 		</div>
 		
 	</nav>
-	
+	<div class="container">
+		<img alt="" src="resources/img/1.jpg" style="margin-top: 140px; width: 80%;">
+		<img alt="" src="resources/img/2.jpg" style="width: 80%;">
+	</div>
 	<script src="resources/js/jquery.min.js"></script>
 	<script src="resources/js/popper.js"></script>
 	<script src="resources/js/bootstrap.min.js"></script>	
