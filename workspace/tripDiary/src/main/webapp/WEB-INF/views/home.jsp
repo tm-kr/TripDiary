@@ -11,7 +11,7 @@
 
 </head>
 <body>
-	<nav class="navbar navbar-expand-lg navbar-light bg-light header">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light header shadow">
 		<img alt="" src="resources/img/logo.png" class="logo">
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar">
 			<span class="navbar-toggler-icon"></span>
@@ -30,14 +30,28 @@
 				<li class="nav-item active">
 					<a class="nav-link" href="#">Guide</a>
 				</li>
-				<li class="nav-item active">
-					<a class="nav-link" href="#">Admin</a>
+				<li class="nav-item dropdown">
+					<a class="nav-link dropdown-toggle" id="dropdown" data-toggle="dropdown">
+						Adimin
+					</a>
+					<div class="dropdown-menu" aria-labelledby="dropdown">
+
+						<a class="dropdown-item" href="#">회원관리</a>
+						<a class="dropdown-item" href="#">신고된 게시글</a>
+						<a class="dropdown-item" href="#">신고된 댓글</a>
+
+					</div>
 				</li>
 				
 			</ul>
-	<button type="button" class="btn btn-secondary ms-auto me-5">로그인</button>
+			<ul class="navbar-nav ms-auto">
+				<li class="nav-item active">
+			<a class="nav-link" href="#">Sign in</a>
+			</li>
+			</ul>
 			
 		</div>
+		
 	</nav>
 	
 	<script src="resources/js/jquery.min.js"></script>

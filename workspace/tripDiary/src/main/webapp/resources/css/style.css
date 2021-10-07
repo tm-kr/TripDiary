@@ -1,13 +1,10 @@
-body{
-	background: #ebeef1;
-}
 .header {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   
-  height: 80px;
+  height: 75px;
   color: white;
   background-color:white;
   font-weight: bold;
