@@ -59,6 +59,9 @@
 	<div class="container">
 		<img alt="" src="resources/img/1.jpg" style="margin-top: 140px; width: 80%;">
 		<img alt="" src="resources/img/2.jpg" style="width: 80%;">
+		<img alt="" src="resources/img/2.jpg" style="width: 80%;">
+		<img alt="" src="resources/img/2.jpg" style="width: 80%;">
+		<img alt="" src="resources/img/2.jpg" style="width: 80%;">
 	</div>
 	
 	
