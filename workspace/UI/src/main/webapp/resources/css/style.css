@@ -37,6 +37,12 @@
 #fixedbtn{
 	position:fixed;right:3%;bottom:0px;z-index:1000
 }
+#fixedbtn2{
+	position:fixed;right:9%;bottom:0px;z-index:1000
+}
+#fixedbtn3{
+	position:fixed;right:15%;bottom:0px;z-index:1000
+}
 #fixedicon{
 	width : 100px;
 	background-color:black;
