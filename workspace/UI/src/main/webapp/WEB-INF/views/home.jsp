@@ -128,6 +128,30 @@
 							<label>#태그</label>
 							<input type="text" name="reportTitle" class="form-control" maxlength="30">
 						</div>
+						<div class="form-group">
+							<label>게시글 사진</label>
+							<textarea name="reportContent" class="form-control" maxlength="2048" style="height: 380px;"></textarea>
+						</div>
+						<div class="form-group">
+							<label>게시글 내용</label>
+							<input type="text" name="reportTitle" class="form-control" maxlength="30">
+						</div>
+						<div class="form-group">
+							<label>#태그</label>
+							<input type="text" name="reportTitle" class="form-control" maxlength="30">
+						</div>
+						<div class="form-group">
+							<label>게시글 사진</label>
+							<textarea name="reportContent" class="form-control" maxlength="2048" style="height: 380px;"></textarea>
+						</div>
+						<div class="form-group">
+							<label>게시글 내용</label>
+							<input type="text" name="reportTitle" class="form-control" maxlength="30">
+						</div>
+						<div class="form-group">
+							<label>#태그</label>
+							<input type="text" name="reportTitle" class="form-control" maxlength="30">
+						</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-secondary" data-dismiss="modal">수정</button>
 							<button type="button" class="btn btn-secondary" data-dismiss="modal">삭제</button>
